@@ -1,0 +1,43 @@
+name: green_hospital
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies: 
+  http: 1.2.0
+  get: 4.6.6
+  get_storage: 2.1.1
+  faker: 2.1.0
+  mysql1: 0.20.0
+  intl: 0.19.0
+  carousel_slider: 4.2.1
+  webview_flutter: ^3.0.0
+  flutter: 
+    sdk: flutter
+
+
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets: 
+    - assets/img/logo.png
+    - assets/img/background.jpg
+    - assets/img/Background2.png
+    - assets/img/layanan.png
+    - assets/img/hospital.png
+    - assets/img/nakes.png
+    - assets/img/ambulance.png
+    - assets/img/ambulanceicon.png
+    - assets/img/pria.png
+    - assets/img/dokter.png
+    - assets/img/perempuan.png
+    - assets/img/rumahsakit.png
+  uses-material-design: true

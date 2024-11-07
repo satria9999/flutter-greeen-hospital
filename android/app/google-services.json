@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "944344852985",
+    "firebase_url": "https://lora-project-a1063-default-rtdb.firebaseio.com",
+    "project_id": "lora-project-a1063",
+    "storage_bucket": "lora-project-a1063.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944344852985:android:d16862759776ededeb7528",
+        "android_client_info": {
+          "package_name": "com.example.green_hospital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvLx1h4kpxhHrlzQ2Dw5gzB6n3BtlkWzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
